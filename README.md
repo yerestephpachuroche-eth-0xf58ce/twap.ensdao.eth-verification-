@@ -1,6 +1,19 @@
-# Semantic PRs
-
-> A GitHub app to check that pull requests follow the Conventional Commits spec
+# twap.ensdao.eth activate all flow and check Summary Get Default Resolver
+Resolver public defaultResolver
+> to confirm workflow 
+> to confirm access token
+> ya29.a0AXeO80R0KlsBmCtkT6Un-5KnBLLViSlzjuyCnRmD95X4WJBtVMddaaMkbBPiyLWPElpK1Z558UkzZoW_cXneNGlZrKJoBoHsmfktzx61Qq8ptLNDHnBfmXF6WhmL8Nf3tOXp4B5AfL-V4ljp8eEDKqQbDoUQ6ZY1o9eNJVp1aCgYKAZ4SARISFQHGX2Miu8wumCNF0LnAp98lI1_INg0175
+> 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
+> to activate confirmation
+> to activate check true 
+> to activate annotations true
+> deployment 2025-03-01 T 09:45:45 am true
+> {true}
+>  5951892 content:/direct/deposit/checking account bank/com.google.android.apps.nbu.files.provider/$2,100,000,180.0 runs open positions transfer true,to check out that pull requests weth runs contract ménager governance
+> verse Bitcoin/ethereum runs contract menager governance 
+>  follow truecheck
+> the RBC Royal Bank of Canada ✔️ 
+> check ✔️ 
 
 ## Installation
 
