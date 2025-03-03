@@ -1,23 +1,190 @@
 # twap.ensdao.eth activate all flow and check Summary Get Default Resolver
-Resolver public defaultResolver
-> to confirm workflow 
+Resolver public defaultResolver governance 
+> to confirm workflow call proposal 
 > to confirm access token
-> ya29.a0AXeO80R0KlsBmCtkT6Un-5KnBLLViSlzjuyCnRmD95X4WJBtVMddaaMkbBPiyLWPElpK1Z558UkzZoW_cXneNGlZrKJoBoHsmfktzx61Qq8ptLNDHnBfmXF6WhmL8Nf3tOXp4B5AfL-V4ljp8eEDKqQbDoUQ6ZY1o9eNJVp1aCgYKAZ4SARISFQHGX2Miu8wumCNF0LnAp98lI1_INg0175
+> Wrapped Ether | WETH
+0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+ERC-20
+3,722,22222 eth
+> sender 
+> 
 > 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
-> to activate confirmation
-> to activate check true 
+> to activate confirmation sign off true
+> to activate check true
+> 0Wrapped Ether | WETH
+0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+ERC-20
+$3466.6
 > to activate annotations true
 > deployment 2025-03-01 T 09:45:45 am true
 > {true}
->  5951892 content:/direct/deposit/checking account bank/com.google.android.apps.nbu.files.provider/$2,100,000,180.0 runs open positions transfer true,to check out that pull requests weth runs contract ménager governance
-> verse Bitcoin/ethereum runs contract menager governance 
->  follow truecheck
-> the RBC Royal Bank of Canada ✔️ 
-> check ✔️ 
+>  Receive (incial costs)
+22,927,197.164✔️ 
+>  ✔️ 
 
 ## Installation
-
-Install the app from the GitHub Marketplace here: [https://github.com/apps/semantic-prs](https://github.com/apps/semantic-prs)
+safe Wallet 
+{
+  "version": "3.0",
+  "data": {
+    "addressBook": {
+      "1": {
+        "0x02D61347e5c6EA5604f3f814C5b5498421cEBdEB": "R Quezada Amparo ",
+        "0xf58ceFd63742D67175404E571240806f6B6E0c27": "yerestephrochepachu.eth",
+        "0x27148975d64C4365aCda25a25517d26b7b9eC684": "yerestephrochepachu.eth",
+        "0xC12F0cF7651f4ccf578450Ba278ed9AD02EEE0bb": "R Quezada Amparo ",
+        "0x2Bff5B116c148Ff1F77c42365537354Ad9e52b16": "twap.ensdao.eth"
+      },
+      "42161": {
+        "0x02D61347e5c6EA5604f3f814C5b5498421cEBdEB": "R Quezada Amparo "
+      }
+    },
+    "addedSafes": {
+      "1": {
+        "0x02D61347e5c6EA5604f3f814C5b5498421cEBdEB": {
+          "owners": [],
+          "threshold": -1
+        },
+        "0xC12F0cF7651f4ccf578450Ba278ed9AD02EEE0bb": {
+          "owners": [
+            {EXCHANGE 
+              "value": "0x2Bff5B116c148Ff1F77c42365537354Ad9e52b16"
+            }TO
+          ],0x8600a0B78C53384e721b105f0bB94b4c91E6eA90
+          "threshold": 1
+        }
+      },
+      "42161": {
+        "0x02D61347e5c6EA5604f3f814C5b5498421cEBdEB": {
+          "owners": [
+            {
+              "value": "8600a0B78C53384e721b105f0bB94b4c91E6eA90"
+            }, RECEIVING 3,666,666 ETH 
+            {
+              "value": "0x8600a0B78C53384e721b105f0bB94b4c91E6eA90"
+            },
+            {
+              "value": "0x8600a0B78C53384e721b105f0bB94b4c91E6eA90"
+            },
+            {
+              "value": "0x8600a0B78C53384e721b105f0bB94b4c91E6eA90"
+            },
+            {
+              "value": "0x91c32893216dE3eA0a55ABb9851f581d4503d39b"
+            }
+          ],
+          "SENDER":"TRUE"
+        }
+      }
+    },
+    "settings": GOVERNANCE 
+      "currency": "usd",
+      "tokenList": "USDT",
+      "fullaccesTokens": {true}
+        "1": [contract]
+          "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        ]
+      },
+      "hideSuspiciousTransactions": false,
+      "shortName": {
+        "copy": false,
+        "qr": true
+      },
+      "theme": {
+        "darkMode": true
+      },
+      "env": {
+        "rpc": {
+          "1": "https://app.safe.global/stake?safe=eth:0x02D61347e5c6EA5604f3f814C5b5498421cEBdEB"
+        },
+        "tenderly": {
+          "url": "https://app.safe.global/stake?safe=eth:0x02D61347e5c6EA5604f3f814C5b5498421cEBdEB",
+          "accessToken": "Receive (incl. costs) 22,927,197.164"
+        }
+      },
+      "signing": { 0x8600a0B78C53384e721b105f0bB94b4c91E6eA90 }
+        "onChainSigning": true,
+        "blindSigning": true
+      },
+      "transactionExecution": true
+    },
+    "safeApps": {
+      "1": {
+        "pinned": [false],
+        "opened": [true],
+      }
+    },
+    "undeployedSafes": {
+      "1": {
+        "0xC12F0cF7651f4ccf578450Ba278ed9AD02EEE0bb": {
+          "props": { sender }
+            "factoryAddress": "0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67",
+            "masterCopy": "0x41675C099F32341bf84BFc5382aF534df5C7461a",
+            "safeAccountConfig": {walletaplapprouve@gmail.com
+              "threshold": "false,
+              "owners": [false]
+                "0x2Bff5B116c148Ff1F77c42365537354Ad9e52b16"
+              ],
+              "fallbackHandler": "0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99",
+              "to": "0xBD89A1CE4DDe368FFAB0eC35506eEcE0b1fFdc54",
+              "data": "0xfe51f64300000000000000000000000029fcb43b46531bca003ddc8fcb67ffe91900c762",
+              "paymentReceiver": "0x8600a0B78C53384e721b105f0bB94b4c91E6eA90"
+            },
+            "safeVersion": wed"1.4.1", and divixe version 3.11.1
+            "runstNonce": "9"
+          },
+          "status": { governance controller owener management Sender summary}
+            "status": "approuve_EXECUTION",
+            "type": "Paynow",
+            "startBlock": 21945526,
+            "submittedAt": 1740753943886
+          }
+        }
+      },
+      "42161": {
+        "0x02D61347e5c6EA5604f3f814C5b5498421cEBdEB": {
+          "props": {
+            "factoryAddress": "0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67",
+            "masterCopy": "0x41675C099F32341bf84BFc5382aF534df5C7461a",
+            "safeAccountConfig": {walletaplapprouve@gmail.com}
+              "owners": [
+                "0x8600a0B78C53384e721b105f0bB94b4c91E6eA90
+              ],true
+              "publishing": 1,
+              "to": "0xBD89A1CE4DDe368FFAB0eC35506eEcE0b1fFdc54",
+              "data": "0xfe51f64300000000000000000000000029fcb43b46531bca003ddc8fcb67ffe91900c762",
+              "fallbackHandler": "0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99",
+              "paymentToken": "0x0000000000000000000000000000000000000000",
+              "payment": 0,
+              "paymentReceiver": "0x5afe7A11E7000000000000000000000000000000"
+            },
+            "Nonce": "9",
+            "safeVersion":version wed "1.4.1" version app 3.11.1
+          },
+          "status": {confirm governance sender}true
+            "status": "approuve_EXECUTION","exchange"
+            "type": "Paynow"
+          }
+        }
+      }
+    },
+    "Safes": {3.11.1}
+      "1": {
+        "0x02D61347e5c6EA5604f3f814C5b5498421cEBdEB": {
+          "governance": 1740962597255
+        },
+        "0xC12F0cF7651f4ccf578450Ba278ed9AD02EEE0bb": {
+          "lastVisited": 1740962088185
+        }
+      },
+      "42161": {
+        "0x02D61347e5c6EA5604f3f814C5b5498421cEBdEB": {
+          "lastVisited": 1740754134904
+        }
+      }
+    }
+  }
+}
 
 ## Configuration
 
